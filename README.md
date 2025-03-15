@@ -14,6 +14,9 @@
 </div>
 
 
+
+
+
 # Mindcraft 🧠⛏️
 
 Crafting minds for Minecraft with LLMs and Mineflayer!
